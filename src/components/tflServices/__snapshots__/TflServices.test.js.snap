@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TflServicesContainer component matches the snapshot 1`] = `
+<div>
+  <h1>
+    TFL Services
+  </h1>
+  <select
+    className="Tfl-Service-List"
+    id="service-types"
+    onChange={[Function]}
+    value={0}
+  />
+</div>
+`;

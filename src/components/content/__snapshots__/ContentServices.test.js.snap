@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentContainer component using blank services for presentational component matches the snapshot 1`] = `
+<div>
+  <h1>
+    Welcome to the TFL info widget
+  </h1>
+</div>
+`;
+
+exports[`ContentContainer component using blank services for presentational component matches the snapshot 2`] = `
+<div>
+  <h1>
+    Cycle hire content
+  </h1>
+  <input
+    className="Cycle-Hire-Query-Input"
+    id="input"
+    type="text"
+  />
+  <button
+    className="Input-Button"
+    onClick={[Function]}
+  >
+    Find cycles
+  </button>
+  <div>
+    <p>
+      
+    </p>
+    <ul
+      className="Result-List"
+    />
+  </div>
+</div>
+`;
+
+exports[`ContentContainer component using content services for presentational component matches the snapshot 1`] = `
+<div>
+  <h1>
+    Service update
+  </h1>
+  <h3>
+    Service currently suffering disruptions
+  </h3>
+  <div
+    className="Messages"
+  >
+    <div>
+      <p>
+        Docklands Light Railway: Train service will resume later this morning. 
+      </p>
+      <br />
+    </div>
+  </div>
+</div>
+`;

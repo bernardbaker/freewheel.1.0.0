@@ -1,0 +1,7 @@
+.Messages {
+  background-color: rgb(240,240,240);
+  padding: 10px;
+  overflow-y: auto;
+  height: 230px;
+  border-radius: 10px;
+}
